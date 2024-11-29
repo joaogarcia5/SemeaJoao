@@ -1,0 +1,12 @@
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\bin\Debug\SemeaJoao.exe.config
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\bin\Debug\SemeaJoao.exe
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\bin\Debug\SemeaJoao.pdb
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.csproj.AssemblyReference.cache
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.Form1.resources
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.Properties.Resources.resources
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.csproj.GenerateResource.cache
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.csproj.CoreCompileInputs.cache
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.exe
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.pdb
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.Form2.resources
+C:\Users\vr198\source\repos\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.Form3.resources

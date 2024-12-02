@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|c:\\users\\azule\\onedrive\\\u00E1rea de trabalho\\semeajoao\\semeajoao\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|c:\\users\\azule\\onedrive\\\u00E1rea de trabalho\\semeajoao\\semeajoao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A333F2A-6638-4B1D-A4BC-6BA6F872E7FF}|SemeaJoao.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwHsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:11:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:08:49.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:19:24.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:37:27.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\azule\\OneDrive\\\u00C1rea de Trabalho\\SemeaJoao\\SemeaJoao\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:26:32.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

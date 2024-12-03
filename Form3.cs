@@ -51,5 +51,36 @@ namespace SemeaJoao
             }
 
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.Botao_AQUI = "saude";
+            Hide();
+            form4.Show();
+        }
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.Botao_AQUI = "odonto";
+            Hide();
+            form4.Show();
+        }
+        private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.Botao_AQUI = "farmaceutico";
+            Hide();
+            form4.Show();
+        }
+        private void linkLabel4_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+            Form4 form4 = new Form4();
+            form4.Botao_AQUI = "plano_de_saude";
+            Hide();
+            form4.Show();
+        }
     }
-}
+  }
+

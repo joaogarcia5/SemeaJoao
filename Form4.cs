@@ -12,6 +12,7 @@ namespace SemeaJoao
 {
     public partial class Form4 : Form
     {
+        public string Botao_AQUI { get; set; }
         public string Botao_Editar_Beneficios { get; set; }
         public Form4()
         {

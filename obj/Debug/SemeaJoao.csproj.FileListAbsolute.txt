@@ -23,3 +23,16 @@ C:\Users\azule\OneDrive\Área de Trabalho\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoa
 C:\Users\azule\OneDrive\Área de Trabalho\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.exe
 C:\Users\azule\OneDrive\Área de Trabalho\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.pdb
 C:\Users\azule\OneDrive\Área de Trabalho\SemeaJoao\SemeaJoao\obj\Debug\SemeaJoao.Form4.resources
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.csproj.AssemblyReference.cache
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.Form1.resources
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.Form2.resources
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.Form3.resources
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.Form4.resources
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.Properties.Resources.resources
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.csproj.GenerateResource.cache
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.csproj.CoreCompileInputs.cache
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.exe
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\obj\Debug\SemeaJoao.pdb
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\bin\Debug\SemeaJoao.exe.config
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\bin\Debug\SemeaJoao.exe
+C:\Users\vr198\OneDrive\Área de Trabalho\ProjetoS\bin\Debug\SemeaJoao.pdb
